@@ -1,0 +1,11 @@
+RAPPORT VIGIE
+Événements analysés : 2
+Lignes ignorées : 1
+Connexions réussies : 1
+Connexions échouées : 1
+
+Échecs par adresse IP :
+- 10.0.0.5 : 1
+
+Alertes (au moins 3 échecs) :
+Aucune alerte.

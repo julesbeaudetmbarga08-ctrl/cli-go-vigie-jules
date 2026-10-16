@@ -1,0 +1,18 @@
+Kit de départ du TP Vigie - analyseur de journal de connexions du campus
+
+go.mod        module Go déjà initialisé (module vigie)
+main.go       programme minimal : vous l'assemblerez à l'exercice 7
+fileio/ parser/ analyse/ rapport/
+              les packages, avec les fonctions à compléter (exercices 1 à 6)
+              et leurs tests (fichiers *_test.go : NE PAS MODIFIER)
+journal.txt   un vrai journal de connexions à analyser
+tests/        tests de bout en bout pour l'exercice 7 :
+              XXX-entree.txt (journal), XXX-attendu.txt (rapport attendu),
+              XXX-options.txt (quand il existe : options à ajouter à la commande)
+
+Tester un exercice :      go test ./parser -run Ex2 -v
+Tester tous les packages : go test ./...
+Lancer le programme :      go run . journal.txt rapport.txt
+Comparer :                 diff rapport.txt tests/T01-attendu.txt   (Windows : fc rapport.txt tests\T01-attendu.txt)
+
+Tout est expliqué dans le sujet et la trame étudiant du TP Vigie.

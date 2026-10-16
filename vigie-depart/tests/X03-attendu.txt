@@ -1,0 +1,21 @@
+RAPPORT VIGIE
+Événements analysés : 10
+Lignes ignorées : 0
+Connexions réussies : 1
+Connexions échouées : 9
+
+Échecs par adresse IP :
+- 10.0.0.5 : 4
+- 172.16.0.9 : 3
+- 192.168.1.33 : 2
+
+Alertes (au moins 3 échecs) :
+- 10.0.0.5 : 4
+- 172.16.0.9 : 3
+
+Comptes visés :
+- admin : 2
+- bob : 2
+- root : 2
+- test : 2
+- guest : 1

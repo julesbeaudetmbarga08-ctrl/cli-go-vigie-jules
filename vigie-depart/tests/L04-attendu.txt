@@ -1,0 +1,11 @@
+RAPPORT VIGIE
+Événements analysés : 0
+Lignes ignorées : 0
+Connexions réussies : 0
+Connexions échouées : 0
+
+Échecs par adresse IP :
+Aucun échec.
+
+Alertes (au moins 3 échecs) :
+Aucune alerte.

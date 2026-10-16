@@ -1,0 +1,13 @@
+RAPPORT VIGIE
+Événements analysés : 6
+Lignes ignorées : 0
+Connexions réussies : 0
+Connexions échouées : 6
+
+Échecs par adresse IP :
+- 10.0.0.12 : 2
+- 10.0.0.5 : 2
+- 192.168.1.33 : 2
+
+Alertes (au moins 3 échecs) :
+Aucune alerte.
